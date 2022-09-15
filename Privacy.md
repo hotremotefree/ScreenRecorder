@@ -13,4 +13,4 @@ c) If you violate relevant laws, regulations or rules, you need to disclose them
 
 Information security
 
-Please protect your personal information properly and provide it to others only when necessary. If you find that your personal information is leaked, please contact the customer service of the software immediately so that the software can take corresponding measures.
+Please protect your personal information properly and provide it to others only when necessary. If you find that your personal information is leaked, please contact the customer service of the software immediately so that the software can take corresponding measures RecoderReview.
